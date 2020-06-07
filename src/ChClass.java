@@ -1,4 +1,5 @@
-public class ChClass extends PaClass {
+public class ChClass extends PaClass
+{
 
     void sub ()  //created sub method
     {
@@ -14,5 +15,6 @@ public class ChClass extends PaClass {
 
 
     }
+
 
 }
